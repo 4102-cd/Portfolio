@@ -5,7 +5,8 @@ Mahasarakham University
 
 ## Projects
 
-### Disease Surveillance Dashboard
+### Data Visualization System for 14 Epidemic Diseases Surveillance at Suddhavej Hospital
+- Link : 
 - data
 - Looker Studio
 - Data Visualization
