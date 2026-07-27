@@ -9,7 +9,7 @@ Mahasarakham University
 - data
 - Looker Studio
 - Data Visualization
-Features
+**Features**
 - รายงานภาพรวมโรคระบาด (Epidemic) ปี พ.ศ.2559-2568
 - รายงานวิเคราะห์ตามเวลา (Time &Analysis) ปี พ.ศ.2559-2568
 - รายงานวิเคราะห์กลุ่มผู้ป่วย (Patient & Profile) ปี พ.ศ.2559-2568
